@@ -1,0 +1,256 @@
+`name` Like "%Access Control Policy And Procedures (AC 1)%" OR
+`name` Like "%Account Management (AC 2)%" OR
+`name` Like "%Access Enforcement (AC 3)%" OR
+`name` Like "%Information Flow Enforcement (AC 4)%" OR
+`name` Like "%Separation Of Duties (AC 5)%" OR
+`name` Like "%Least Privilege (AC 6)%" OR
+`name` Like "%Unsuccessful Login Attempts (AC 7)%" OR
+`name` Like "%System Use Notification (AC 8)%" OR
+`name` Like "%Previous Logon (Ac ess) Notification (AC 9)%" OR
+`name` Like "%Security Attributes (AC 16)%" OR
+`name` Like "%Data Mining Protection (AC 23)%" OR
+`name` Like "%Access Control Decisions (AC 24)%" OR
+`name` Like "%Reference Monitor (AC 25)%" OR
+`name` Like "%Concurrent Session Control (AC 10))%" OR
+`name` Like "%Session Lock (AC 11)%" OR
+`name` Like "%Session Termination (AC 12)%" OR
+`name` Like "%Permitted Actions Without Identification Or Authentication (AC 14)%" OR
+`name` Like "%Remote Access (AC 17)%" OR
+`name` Like "%Wireless Access (AC 18)%" OR
+`name` Like "%Access Control For Mobile Devices (AC 19)%" OR
+`name` Like "%Use Of External Information Systems (AC 20)%" OR
+`name` Like "%Information Sharing (AC 21)%" OR
+`name` Like "%Publicly Accessible Content (AC 22)%" OR
+`name` Like "%Monitoring For Information Disclosure (AU 13)%" OR
+`name` Like "%Session Audit (AU 14)%" OR
+`name` Like "%Alternate Audit Capability (AU 15)%" OR
+`name` Like "%Cross-Organizational Auditing (AU 16)%" OR
+`name` Like "%Audit And Accountability Policy And Procedures (AU 1)%" OR
+`name` Like "%Audit Events (AU 2)%" OR
+`name` Like "%Content Of Audit Records (AU 3)%" OR
+`name` Like "%Audit Storage Capacity (AU 4))%" OR
+`name` Like "%Response To Audit Processing Failures (AU 5)%" OR
+`name` Like "%Audit Review, Analysis, And Reporting (AU 6)%" OR
+`name` Like "%Audit Reduction And Report Generation (AU 7)%" OR
+`name` Like "%Time Stamps (AU 8)%" OR
+`name` Like "%Protection Of Audit Information (AU 9)%" OR
+`name` Like "%Non-Repudiation (AU 10)%" OR
+`name` Like "%Audit Record Retention (AU 11)%" OR
+`name` Like "%Audit Generation (AU 12)%" OR
+`name` Like "%Security Awareness And Training Policy And Procedures (AT 1)%" OR
+`name` Like "%Security Awareness Training (AT 2)%" OR
+`name` Like "%Role-Based Security Training (AT 3)%" OR
+`name` Like "%Security Training Records (AT 4)%" OR
+`name` Like "%Configuration Management Policy And Procedures (CM 1)%" OR
+`name` Like "%Baseline Configuration (CM 2)%" OR
+`name` Like "%Configuration Change Control (CM 3)%" OR
+`name` Like "%Security Impact Analysis (CM 4)%" OR
+`name` Like "%Access Restrictions For Change (CM 5)%" OR
+`name` Like "%Configuration Settings (CM 6)%" OR
+`name` Like "%Least Functionality (CM 7)%" OR
+`name` Like "%Information System Component Inventory (CM 8)%" OR
+`name` Like "%Configuration Management Plan (CM 9)%" OR
+`name` Like "%Software Usage Restrictions (CM 10)%" OR
+`name` Like "%User-Installed Software (CM 11)%" OR
+`name` Like "%Alternate Communications Protocols (CP 11)%" OR
+`name` Like "%Safe Mode (CP 12)%" OR
+`name` Like "%Alternative Security Mechanisms (CP 13)%" OR
+`name` Like "%Contingency Planning Policy And Procedures (CP 1)%" OR
+`name` Like "%Contingency Plan (CP 2)%" OR
+`name` Like "%Contingency Training (CP 3)%" OR
+`name` Like "%Contingency Plan Testing (CP 4)%" OR
+`name` Like "%Alternate Storage Site (CP 6)%" OR
+`name` Like "%Alternate Processing Site (CP 7)%" OR
+`name` Like "%Telecommunications Services (CP 8)%" OR
+`name` Like "%Information System Backup (CP 9)%" OR
+`name` Like "%Information System Recovery And Reconstitution (CP 10)%" OR
+`name` Like "%Service Identification And Authentication (IA 9)%" OR
+`name` Like "%Adaptive Identification And Authentication (IA 10)%" OR
+`name` Like "%Re-Authentication (IA 11)%" OR
+`name` Like "%Identification And Authentication Policy And Procedures (IA 1)%" OR
+`name` Like "%Identification And Authentication (Or anizational Users) (IA 2)%" OR
+`name` Like "%Device Identification And Authentication (IA 3)%" OR
+`name` Like "%Identifier Management (IA 4)%" OR
+`name` Like "%Authenticator Management (IA 5)%" OR
+`name` Like "%Authenticator Feedback (IA 6)%" OR
+`name` Like "%Cryptographic Module Authentication (IA 7)%" OR
+`name` Like "%Identification And Authentication (No -Organizational Users) (IA 8)%" OR
+`name` Like "%Information Spillage Response (IR 9)%" OR
+`name` Like "%Integrated Information Security Analysis Team (IR 10))%" OR
+`name` Like "%Incident Response Policy And Procedures (IR 1)%" OR
+`name` Like "%Incident Response Training (IR 2)%" OR
+`name` Like "%Incident Response Testing (IR 3)%" OR
+`name` Like "%Incident Handling (IR 4)%" OR
+`name` Like "%Incident Monitoring (IR 5)%" OR
+`name` Like "%Incident Reporting (IR 6)%" OR
+`name` Like "%Incident Response Assistance (IR 7)%" OR
+`name` Like "%Incident Response Plan (IR 8)%" OR
+`name` Like "%System Maintenance Policy And Procedures (MA 1)%" OR
+`name` Like "%Controlled Maintenance (MA 2)%" OR
+`name` Like "%Maintenance Tools (MA 3)%" OR
+`name` Like "%Nonlocal Maintenance (MA 4)%" OR
+`name` Like "%Maintenance Personnel (MA 5)%" OR
+`name` Like "%Timely Maintenance (MA 6)%" OR
+`name` Like "%Media Downgrading (MP 8)%" OR
+`name` Like "%Media Protection Policy And Procedures (MP 1)%" OR
+`name` Like "%Media Access (MP 2)%" OR
+`name` Like "%Media Marking (MP 3)%" OR
+`name` Like "%Media Storage (MP 4)%" OR
+`name` Like "%Media Transport (MP 5)%" OR
+`name` Like "%Media Sanitization (MP 6)%" OR
+`name` Like "%Media Use (MP 7)%" OR
+`name` Like "%Personnel Security Policy And Procedures (PS 1)%" OR
+`name` Like "%Position Risk Designation (PS 2)%" OR
+`name` Like "%Personnel Screening (PS 3)%" OR
+`name` Like "%Personnel Termination (PS 4)%" OR
+`name` Like "%Personnel Transfer (PS 5)%" OR
+`name` Like "%Access Agreements (PS 6)%" OR
+`name` Like "%Third-Party Personnel Security (PS 7)%" OR
+`name` Like "%Personnel Sanctions (PS 8)%" OR
+`name` Like "%Information Leakage (PE 19)%" OR
+`name` Like "%Asset Monitoring And Tracking (PE 20)%" OR
+`name` Like "%Physical And Environmental Protection Policy And Procedures (PE 1)%" OR
+`name` Like "%Physical Access Authorizations (PE 2)%" OR
+`name` Like "%Physical Access Control (PE 3)%" OR
+`name` Like "%Access Control For Transmission Medium (PE 4)%" OR
+`name` Like "%Access Control For Output Devices (PE 5)%" OR
+`name` Like "%Monitoring Physical Access (PE 6)%" OR
+`name` Like "%Visitor Access Records (PE 8)%" OR
+`name` Like "%Power Equipment And Cabling (PE 9)%" OR
+`name` Like "%Emergency Shutoff (PE 10)%" OR
+`name` Like "%Emergency Power (PE 11)%" OR
+`name` Like "%Emergency Lighting (PE 12)%" OR
+`name` Like "%Fire Protection (PE 13)%" OR
+`name` Like "%Temperature And Humidity Controls (PE 14)%" OR
+`name` Like "%Water Damage Protection (PE 15)%" OR
+`name` Like "%Delivery And Removal (PE 16)%" OR
+`name` Like "%Alternate Work Site (PE 17)%" OR
+`name` Like "%Location Of Information System Components (PE 18)%" OR
+`name` Like "%Security Concept Of Operations (PL 7)%" OR
+`name` Like "%Central Management (PL 9)%" OR
+`name` Like "%Security Planning Policy And Procedures (PL 1)%" OR
+`name` Like "%System Security Plan (PL 2)%" OR
+`name` Like "%Rules Of Behavior (PL 4)%" OR
+`name` Like "%Information Security Architecture (PL 8)%" OR
+`name` Like "%Information Security Program Plan (PM 1)%" OR
+`name` Like "%Senior Information Security Officer (PM 2)%" OR
+`name` Like "%Information Security Resources (PM 3)%" OR
+`name` Like "%Plan Of Action And Milestones Process (PM 4)%" OR
+`name` Like "%Information System Inventory (PM 5)%" OR
+`name` Like "%Information Security Measures Of Performance (PM 6)%" OR
+`name` Like "%Enterprise Architecture (PM 7)%" OR
+`name` Like "%Critical Infrastructure Plan (PM 8)%" OR
+`name` Like "%Risk Management Strategy (PM 9)%" OR
+`name` Like "%Security Authorization Process (PM 10)%" OR
+`name` Like "%Mission/Business Process Definition (PM 11)%" OR
+`name` Like "%Insider Threat Program (PM 12)%" OR
+`name` Like "%Information Security Workforce (PM 13)%" OR
+`name` Like "%Testing, Training, And Monitoring (PM 14)%" OR
+`name` Like "%Contacts With Security Groups And Associations (PM 15)%" OR
+`name` Like "%Threat Awareness Program (PM 16)%" OR
+`name` Like "%Technical Surveillance Countermeasures Survey (RA 6)%" OR
+`name` Like "%Risk Assessment Policy And Procedures (RA 1)%" OR
+`name` Like "%Security Categorization (RA 2)%" OR
+`name` Like "%Risk Assessment (RA 3)%" OR
+`name` Like "%Vulnerability Scanning (RA 5)%" OR
+`name` Like "%Security Assessment And Authorization Policy And Procedures (CA 1)%" OR
+`name` Like "%Security Assessments (CA 2)%" OR
+`name` Like "%System Interconnections (CA 3)%" OR
+`name` Like "%Plan Of Action And Milestones (CA 5)%" OR
+`name` Like "%Security Authorization (CA 6)%" OR
+`name` Like "%Continuous Monitoring (CA 7)%" OR
+`name` Like "%Penetration Testing (CA 8)%" OR
+`name` Like "%Internal System Connections (CA 9)%" OR
+`name` Like "%Resource Availability (SC 6)%" OR
+`name` Like "%Trusted Path (SC 11)%" OR
+`name` Like "%Transmission Of Security Attributes (SC 16)%" OR
+`name` Like "%Thin Nodes (SC 25)%" OR
+`name` Like "%Honey Pots (SC 26)%" OR
+`name` Like "%Platform-Independent Applications (SC 27)%" OR
+`name` Like "%Heterogeneity (SC 29)%" OR
+`name` Like "%Concealment And Misdirection (SC 30)%" OR
+`name` Like "%Covert Channel Analysis (SC 31)%" OR
+`name` Like "%Information System Partitioning (SC 32)%" OR
+`name` Like "%Non-Modifiable Executable Programs (SC 34)%" OR
+`name` Like "%Honeyclients (SC 35)%" OR
+`name` Like "%Distributed Processing And Storage (SC 36)%" OR
+`name` Like "%Out-Of-Band Channels (SC 37))%" OR
+`name` Like "%Operations Security (SC 38)%" OR
+`name` Like "%Wireless Link Protection (SC 40)%" OR
+`name` Like "%Port And I/O Device Access (SC 41)%" OR
+`name` Like "%Sensor Capability And Data (SC 42)%" OR
+`name` Like "%Usage Restrictions (SC 43)%" OR
+`name` Like "%Detonation Chambers (SC 44)%" OR
+`name` Like "%System And Communications Protection Policy And Procedures (SC 1)%" OR
+`name` Like "%Application Partitioning (SC 2)%" OR
+`name` Like "%Security Function Isolation (SC 3)%" OR
+`name` Like "%Information In Shared Resources (SC 4)%" OR
+`name` Like "%Denial Of Service Protection (SC 5)%" OR
+`name` Like "%Boundary Protection (SC 7)%" OR
+`name` Like "%Transmission Confidentiality And Integrity (SC 8)%" OR
+`name` Like "%Network Disconnect (SC 10)%" OR
+`name` Like "%Cryptographic Key Establishment And Management (SC 12)%" OR
+`name` Like "%Cryptographic Protection (SC 13)%" OR
+`name` Like "%Collaborative Computing Devices (SC 15)%" OR
+`name` Like "%Public Key Infrastructure Certificates (SC 17)%" OR
+`name` Like "%Mobile Code (SC 18)%" OR
+`name` Like "%Voice Over Internet Protocol (SC 19)%" OR
+`name` Like "%Secure Name / Address Resolution Service (Au horitative Source) (SC 20)%" OR
+`name` Like "%Secure Name / Address Resolution Service (Re ursive Or Caching Resolver) (SC 21))%" OR
+`name` Like "%Architecture And Provisioning For Name / Address Resolution Service (SC 22))%" OR
+`name` Like "%Session Authenticity (SC 23)%" OR
+`name` Like "%Fail In Known State (SC 24)%" OR
+`name` Like "%Protection Of Information At Rest (SC 28)%" OR
+`name` Like "%Process Isolation (SC 39)%" OR
+`name` Like "%Predictable Failure Prevention (SI 13)%" OR
+`name` Like "%Non-Persistence (SI 14)%" OR
+`name` Like "%Information Output Filtering (SI 15)%" OR
+`name` Like "%Fail-Safe Procedures (SI 17)%" OR
+`name` Like "%System And Information Integrity Policy And Procedures (SI 1)%" OR
+`name` Like "%Flaw Remediation (SI 2)%" OR
+`name` Like "%Malicious Code Protection (SI 3)%" OR
+`name` Like "%Information System Monitoring (SI 4)%" OR
+`name` Like "%Security Alerts, Advisories, And Directives (SI 5)%" OR
+`name` Like "%Security Function Verification (SI 6)%" OR
+`name` Like "%Software, Firmware, And Information Integrity (SI 7)%" OR
+`name` Like "%Spam Protection (SI 8)%" OR
+`name` Like "%Information Input Validation (SI 10)%" OR
+`name` Like "%Error Handling (SI 11)%" OR
+`name` Like "%Information Handling And Retention (SI 12)%" OR
+`name` Like "%Memory Protection (SI 16)%" OR
+`name` Like "%Trustworthiness (SA 13)%" OR
+`name` Like "%Criticality Analysis (SA 14)%" OR
+`name` Like "%Tamper Resistance And Detection (SA 18)%" OR
+`name` Like "%Component Authenticity (SA 19)%" OR
+`name` Like "%Customized Development Of Critical Components (SA 20)%" OR
+`name` Like "%Developer Screening (SA 21)%" OR
+`name` Like "%Unsupported System Components (SA 22)%" OR
+`name` Like "%System And Services Acquisition Policy And Procedures (SA 1)%" OR
+`name` Like "%Allocation Of Resources (SA 2)%" OR
+`name` Like "%System Development Life Cycle (SA 3)%" OR
+`name` Like "%Acquisition Process (SA 4)%" OR
+`name` Like "%Information System Documentation (SA 5)%" OR
+`name` Like "%Security Engineering Principles (SA 8)%" OR
+`name` Like "%External Information System Services (SA 9)%" OR
+`name` Like "%Developer Configuration Management (SA 10)%" OR
+`name` Like "%Developer Security Testing And Evaluation (SA 11)%" OR
+`name` Like "%Supply Chain Protection (SA 12)%" OR
+`name` Like "%Development Process, Standards, And Tools (SA 15)%" OR
+`name` Like "%Developer-Provided Training (SA 16)%" OR
+`name` Like "%Developer Security Architecture And Design (SA 17)%" OR
+`name` Like "%Contacts With Security Groups And Associations (AT 5)%" OR
+`name` Like "%Contingency Plan Update (CP 5)%" OR
+`name` Like "%Information Input Restrictions (SI 9)%" OR
+`name` Like "%Privacy Impact Assessment (PL 5)%" OR
+`name` Like "%Public Access Protections (SC 14)%" OR
+`name` Like "%Risk Assessment Update (RA 4)%" OR
+`name` Like "%Security Certification (CA 4)%" OR
+`name` Like "%Security-Related Activity Planning (PL 6)%" OR
+`name` Like "%Software Usage Restrictions (SA 6)%" OR
+`name` Like "%Supervision And Review - Access Control (AC 13)%" OR
+`name` Like "%System Security Plan Update (PL 3)%" OR
+`name` Like "%Transmission Confidentiality (SC 9)%" OR
+`name` Like "%Transmission Preparation Integrity (SC 33)%" OR
+`name` Like "%User- Installed Software (SA 7)%" OR
+`name` Like "%Visitor Control (PE 7)%" OR
+`name` Like "%Automated Marking (AC 15)%"
